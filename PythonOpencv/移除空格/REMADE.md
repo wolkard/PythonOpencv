@@ -1,0 +1,1 @@
+利用python、opencv、numpy图像处理，切割印刷体单词
